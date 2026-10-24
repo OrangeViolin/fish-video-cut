@@ -1,6 +1,5 @@
-# Core tooling — install what you need per stage
+# Mosaic, subtitles, and shared image tooling
 opencv-python-headless>=4.8
-mediapipe>=0.10.9
 numpy>=1.24
 Pillow>=10.0
 fonttools>=4.40
