@@ -160,9 +160,9 @@ python scripts/mix/build_mix.py both
 
 <div align="center">
 
-![墨绿](https://img.shields.io/badge/墨绿-%231A3328-1A3328)
-![鱼红](https://img.shields.io/badge/鱼红-%23C44536-C44536)
-![宣纸](https://img.shields.io/badge/宣纸-%23F2EDE3-F2EDE3)
+![墨绿](https://img.shields.io/badge/墨绿-1A3328-1A3328)
+![鱼红](https://img.shields.io/badge/鱼红-C44536-C44536)
+![宣纸](https://img.shields.io/badge/宣纸-F2EDE3-1A3328)
 
 </div>
 
